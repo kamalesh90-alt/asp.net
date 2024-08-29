@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kamalesh.s\\Desktop\\asp.net\\SecurityDemo1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACE8D168-A279-48FC-9B49-9CD9447A56D7}|SecurityDemo1\\SecurityDemo1.csproj|c:\\users\\kamalesh.s\\desktop\\asp.net\\securitydemo1\\securitydemo1\\views\\callapi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACE8D168-A279-48FC-9B49-9CD9447A56D7}|SecurityDemo1\\SecurityDemo1.csproj|solutionrelative:securitydemo1\\views\\callapi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACE8D168-A279-48FC-9B49-9CD9447A56D7}|SecurityDemo1\\SecurityDemo1.csproj|c:\\users\\kamalesh.s\\desktop\\asp.net\\securitydemo1\\securitydemo1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACE8D168-A279-48FC-9B49-9CD9447A56D7}|SecurityDemo1\\SecurityDemo1.csproj|solutionrelative:securitydemo1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACE8D168-A279-48FC-9B49-9CD9447A56D7}|SecurityDemo1\\SecurityDemo1.csproj|c:\\users\\kamalesh.s\\desktop\\asp.net\\securitydemo1\\securitydemo1\\views\\callapi\\flightreservation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACE8D168-A279-48FC-9B49-9CD9447A56D7}|SecurityDemo1\\SecurityDemo1.csproj|solutionrelative:securitydemo1\\views\\callapi\\flightreservation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACE8D168-A279-48FC-9B49-9CD9447A56D7}|SecurityDemo1\\SecurityDemo1.csproj|c:\\users\\kamalesh.s\\desktop\\asp.net\\securitydemo1\\securitydemo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACE8D168-A279-48FC-9B49-9CD9447A56D7}|SecurityDemo1\\SecurityDemo1.csproj|solutionrelative:securitydemo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACE8D168-A279-48FC-9B49-9CD9447A56D7}|SecurityDemo1\\SecurityDemo1.csproj|c:\\users\\kamalesh.s\\desktop\\asp.net\\securitydemo1\\securitydemo1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACE8D168-A279-48FC-9B49-9CD9447A56D7}|SecurityDemo1\\SecurityDemo1.csproj|solutionrelative:securitydemo1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACE8D168-A279-48FC-9B49-9CD9447A56D7}|SecurityDemo1\\SecurityDemo1.csproj|c:\\users\\kamalesh.s\\desktop\\asp.net\\securitydemo1\\securitydemo1\\views\\home\\viewbagexample.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACE8D168-A279-48FC-9B49-9CD9447A56D7}|SecurityDemo1\\SecurityDemo1.csproj|solutionrelative:securitydemo1\\views\\home\\viewbagexample.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACE8D168-A279-48FC-9B49-9CD9447A56D7}|SecurityDemo1\\SecurityDemo1.csproj|c:\\users\\kamalesh.s\\desktop\\asp.net\\securitydemo1\\securitydemo1\\controllers\\callapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACE8D168-A279-48FC-9B49-9CD9447A56D7}|SecurityDemo1\\SecurityDemo1.csproj|solutionrelative:securitydemo1\\controllers\\callapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACE8D168-A279-48FC-9B49-9CD9447A56D7}|SecurityDemo1\\SecurityDemo1.csproj|c:\\users\\kamalesh.s\\desktop\\asp.net\\securitydemo1\\securitydemo1\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACE8D168-A279-48FC-9B49-9CD9447A56D7}|SecurityDemo1\\SecurityDemo1.csproj|solutionrelative:securitydemo1\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACE8D168-A279-48FC-9B49-9CD9447A56D7}|SecurityDemo1\\SecurityDemo1.csproj|c:\\users\\kamalesh.s\\desktop\\asp.net\\securitydemo1\\securitydemo1\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACE8D168-A279-48FC-9B49-9CD9447A56D7}|SecurityDemo1\\SecurityDemo1.csproj|solutionrelative:securitydemo1\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACE8D168-A279-48FC-9B49-9CD9447A56D7}|SecurityDemo1\\SecurityDemo1.csproj|c:\\users\\kamalesh.s\\desktop\\asp.net\\securitydemo1\\securitydemo1\\securitydemo1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ACE8D168-A279-48FC-9B49-9CD9447A56D7}|SecurityDemo1\\SecurityDemo1.csproj|solutionrelative:securitydemo1\\securitydemo1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CallApiController.cs",
+              "DocumentMoniker": "C:\\Users\\kamalesh.s\\Desktop\\asp.net\\SecurityDemo1\\SecurityDemo1\\Controllers\\CallApiController.cs",
+              "RelativeDocumentMoniker": "SecurityDemo1\\Controllers\\CallApiController.cs",
+              "ToolTip": "C:\\Users\\kamalesh.s\\Desktop\\asp.net\\SecurityDemo1\\SecurityDemo1\\Controllers\\CallApiController.cs",
+              "RelativeToolTip": "SecurityDemo1\\Controllers\\CallApiController.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAcwC0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T05:10:01.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FlightReservation.cshtml",
+              "DocumentMoniker": "C:\\Users\\kamalesh.s\\Desktop\\asp.net\\SecurityDemo1\\SecurityDemo1\\Views\\CallApi\\FlightReservation.cshtml",
+              "RelativeDocumentMoniker": "SecurityDemo1\\Views\\CallApi\\FlightReservation.cshtml",
+              "ToolTip": "C:\\Users\\kamalesh.s\\Desktop\\asp.net\\SecurityDemo1\\SecurityDemo1\\Views\\CallApi\\FlightReservation.cshtml",
+              "RelativeToolTip": "SecurityDemo1\\Views\\CallApi\\FlightReservation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T05:07:20.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\kamalesh.s\\Desktop\\asp.net\\SecurityDemo1\\SecurityDemo1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SecurityDemo1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\kamalesh.s\\Desktop\\asp.net\\SecurityDemo1\\SecurityDemo1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SecurityDemo1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwB4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T05:00:58.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kamalesh.s\\Desktop\\asp.net\\SecurityDemo1\\SecurityDemo1\\Program.cs",
+              "RelativeDocumentMoniker": "SecurityDemo1\\Program.cs",
+              "ToolTip": "C:\\Users\\kamalesh.s\\Desktop\\asp.net\\SecurityDemo1\\SecurityDemo1\\Program.cs",
+              "RelativeToolTip": "SecurityDemo1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T09:26:31.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kamalesh.s\\Desktop\\asp.net\\SecurityDemo1\\SecurityDemo1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SecurityDemo1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kamalesh.s\\Desktop\\asp.net\\SecurityDemo1\\SecurityDemo1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SecurityDemo1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T08:41:31.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kamalesh.s\\Desktop\\asp.net\\SecurityDemo1\\SecurityDemo1\\Views\\CallApi\\Index.cshtml",
+              "RelativeDocumentMoniker": "SecurityDemo1\\Views\\CallApi\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kamalesh.s\\Desktop\\asp.net\\SecurityDemo1\\SecurityDemo1\\Views\\CallApi\\Index.cshtml",
+              "RelativeToolTip": "SecurityDemo1\\Views\\CallApi\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T05:06:36.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\kamalesh.s\\Desktop\\asp.net\\SecurityDemo1\\SecurityDemo1\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "SecurityDemo1\\Models\\Reservation.cs",
+              "ToolTip": "C:\\Users\\kamalesh.s\\Desktop\\asp.net\\SecurityDemo1\\SecurityDemo1\\Models\\Reservation.cs",
+              "RelativeToolTip": "SecurityDemo1\\Models\\Reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T05:12:18.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ViewBagExample.cshtml",
+              "DocumentMoniker": "C:\\Users\\kamalesh.s\\Desktop\\asp.net\\SecurityDemo1\\SecurityDemo1\\Views\\Home\\ViewBagExample.cshtml",
+              "RelativeDocumentMoniker": "SecurityDemo1\\Views\\Home\\ViewBagExample.cshtml",
+              "ToolTip": "C:\\Users\\kamalesh.s\\Desktop\\asp.net\\SecurityDemo1\\SecurityDemo1\\Views\\Home\\ViewBagExample.cshtml",
+              "RelativeToolTip": "SecurityDemo1\\Views\\Home\\ViewBagExample.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T08:36:14.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReservationController.cs",
+              "DocumentMoniker": "C:\\Users\\kamalesh.s\\Desktop\\asp.net\\SecurityDemo1\\SecurityDemo1\\Controllers\\ReservationController.cs",
+              "RelativeDocumentMoniker": "SecurityDemo1\\Controllers\\ReservationController.cs",
+              "ToolTip": "C:\\Users\\kamalesh.s\\Desktop\\asp.net\\SecurityDemo1\\SecurityDemo1\\Controllers\\ReservationController.cs",
+              "RelativeToolTip": "SecurityDemo1\\Controllers\\ReservationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T05:19:32.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SecurityDemo1.csproj",
+              "DocumentMoniker": "C:\\Users\\kamalesh.s\\Desktop\\asp.net\\SecurityDemo1\\SecurityDemo1\\SecurityDemo1.csproj",
+              "RelativeDocumentMoniker": "SecurityDemo1\\SecurityDemo1.csproj",
+              "ToolTip": "C:\\Users\\kamalesh.s\\Desktop\\asp.net\\SecurityDemo1\\SecurityDemo1\\SecurityDemo1.csproj",
+              "RelativeToolTip": "SecurityDemo1\\SecurityDemo1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-28T04:53:35.292Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
